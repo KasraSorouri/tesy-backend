@@ -33,3 +33,4 @@ build/
 .vscode/
 
 /src/main/java/com/example/tesy/Authentication/JwtReact/JwtUtil.java
+/src/main/resources/application.properties
